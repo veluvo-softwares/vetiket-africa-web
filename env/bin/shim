@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH='/Users/duncan/Downloads/vetika_africa_web/env/lib/node_modules'
+export NPM_CONFIG_PREFIX='/Users/duncan/Downloads/vetika_africa_web/env'
+export npm_config_prefix='/Users/duncan/Downloads/vetika_africa_web/env'
+exec 'env/bin/node' "$@"
