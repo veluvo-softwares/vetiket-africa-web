@@ -14,13 +14,12 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+      Never miss a beat  <br className="sm:block hidden" /> with Vetiket Africa.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+      Don't miss out on your favorite events and artists! 
+      With Vetiket Africa, you can stay up-to-date on the best events happening in your city and beyond. 
+      Our personalized notification system will keep you informed about new events and updates from your favorite artists. 
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

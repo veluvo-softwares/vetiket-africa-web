@@ -6,12 +6,12 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      Your go-to destination   <br className="sm:block hidden" /> for all things ticketing.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Vetiket Africa is your one-stop shop for all things ticketing. 
+      Find tickets for a wide range of events, easily search for events by location, date, or type, and purchase tickets securely online. 
+      From concerts to sporting events to theater performances, we've got you covered for all your ticketing needs.
       </p>
 
       <Button styles={`mt-10`} />

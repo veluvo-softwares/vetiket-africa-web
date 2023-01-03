@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Rewarding Scheme",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We offer a rewarding system that allows you to earn points for every ticket purchased on our platform. These points can be redeemed for discounts on future purchases or other special perk"
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Secure payments",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "At Vetiket Africa, we take the security of your payments seriously. That's why we use a secure online payment system to ensure that your financial information is kept safe. When you purchase tickets on our platform, you can rest assured that your payment is protected.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Refund Policy",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We understand that sometimes plans change and you may need to request a refund for your tickets. At Vetiket Africa, we strive to make the refund process as seamless as possible. Our team is dedicated to processing refunds efficiently and fairly.",
   },
 ];
 
