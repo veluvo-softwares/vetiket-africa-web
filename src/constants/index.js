@@ -1,4 +1,19 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import {
+  people01,
+  people02,
+  people03,
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  airbnb,
+  binance,
+  coinbase,
+  dropbox,
+  send,
+  shield,
+  star,
+} from "../assets";
 
 export const navLinks = [
   {
@@ -25,7 +40,7 @@ export const features = [
     icon: star,
     title: "Rewarding Scheme",
     content:
-      "We offer a rewarding system that allows you to earn points for every ticket purchased on our platform. These points can be redeemed for discounts on future purchases or other special perk"
+      "We offer a rewarding system that allows you to earn points for every ticket purchased on our platform. These points can be redeemed for discounts on future purchases or other special perk",
   },
   {
     id: "feature-2",
@@ -94,23 +109,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.vetika.africa/content/",
+        link: "https://www.vetiket.africa/content/",
       },
       {
         name: "How it Works",
-        link: "https://www.vetika.africa/how-it-works/",
+        link: "https://www.vetiket.africa/how-it-works/",
       },
       {
         name: "Create",
-        link: "https://www.vetika.africa/create/",
+        link: "https://www.vetiket.africa/create/",
       },
       {
         name: "Explore",
-        link: "https://www.vetika.africa/explore/",
+        link: "https://www.vetiket.africa/explore/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.vetika.africa/terms-and-services/",
+        link: "https://www.vetiket.africa/terms-and-services/",
       },
     ],
   },
@@ -119,23 +134,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.vetika.africa/help-center/",
+        link: "https://www.vetiket.africa/help-center/",
       },
       {
         name: "Partners",
-        link: "https://www.vetika.africa/partners/",
+        link: "https://www.vetiket.africa/partners/",
       },
       {
         name: "Suggestions",
-        link: "https://www.vetika.africa/suggestions/",
+        link: "https://www.vetiket.africa/suggestions/",
       },
       {
         name: "Blog",
-        link: "https://www.vetika.africa/blog/",
+        link: "https://www.vetiket.africa/blog/",
       },
       {
         name: "Newsletters",
-        link: "https://www.vetika.africa/newsletters/",
+        link: "https://www.vetiket.africa/newsletters/",
       },
     ],
   },
@@ -144,11 +159,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.vetika.africa/our-partner/",
+        link: "https://www.vetiket.africa/our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.vetika.africa/become-a-partner/",
+        link: "https://www.vetiket.africa/become-a-partner/",
       },
     ],
   },
