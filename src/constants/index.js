@@ -29,8 +29,8 @@ export const navLinks = [
     title: "Product",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "waitlist",
+    title: "Waitlist",
   },
 ];
 
@@ -110,8 +110,8 @@ export const footerLinks = [
       {
         name: "Content",
         link: "https://www.vetiket.africa/content/",
-      },
-      {
+  },
+  {
         name: "How it Works",
         link: "https://www.vetiket.africa/how-it-works/",
       },
@@ -173,22 +173,22 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/vetiket.africa/",
   },
-  {
-    id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
-  },
-  {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
-  },
+  // {
+  //   id: "social-media-2",
+  //   icon: facebook,
+  //   link: "https://www.facebook.com/",
+  // },
+  // {
+  //   id: "social-media-3",
+  //   icon: twitter,
+  //   link: "https://www.twitter.com/",
+  // },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/company/vetiket-africa/",
   },
 ];
 

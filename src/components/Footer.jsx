@@ -12,7 +12,7 @@ const Footer = () => (
           className="w-[266px] h-[72.14px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-        Welcome to the next generation of ticketing.
+        The next generation of ticketing.
         </p>
       </div>
 
@@ -41,10 +41,10 @@ const Footer = () => (
 
     <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
       <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">
-        Ⓒ 2023. Powered by Veluvo Softwares.
+        {/* Ⓒ 2023. Powered by Veluvo Softwares. */}
       </p>
 
-      <div className="flex flex-row md:mt-0 mt-6">
+      <div className="flex flex-row md:mt-0 mt-6 items-center">
         {socialMedia.map((social, index) => (
           <img
             key={social.id}

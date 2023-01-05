@@ -1,6 +1,6 @@
 import styles from "../style";
 import { discount, robot } from "../assets";
-import GetStarted from "./GetStarted";
+// import GetStarted from "./GetStarted";
 
 const Hero = () => {
   return (
@@ -20,7 +20,7 @@ const Hero = () => {
             <span className="text-gradient">Generation</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
-            <GetStarted />
+            {/* <GetStarted /> */}
           </div>
         </div>
 
@@ -43,9 +43,9 @@ const Hero = () => {
         {/* gradient end */}
       </div>
 
-      <div className={`ss:hidden ${styles.flexCenter}`}>
-        <GetStarted />
-      </div>
+      {/* <div className={`ss:hidden ${styles.flexCenter}`}> */}
+        {/* <GetStarted /> */}
+      {/* </div> */}
     </section>
   );
 };
